@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ButterKnife Example</string>
+    <string name="you_entered">You entered </string>
+</resources>
